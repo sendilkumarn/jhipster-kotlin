@@ -17,6 +17,8 @@
 [![NPM version][npm-image]][npm-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
 
+<object id="badge" data="https://snyk-widget.herokuapp.com/badge/npm/generator-jhipster-kotlin/1.9.0/badge.svg" type="image/svg+xml"></object>
+
 This project adds Kotlin to the JHipster application 😎. It is based on JHipster Blueprint 🔵.
 
 ## 🚀 How to get started
